@@ -2,12 +2,13 @@
 
 Repository for submitting Advanced Track Assignments.
 
-## Assignment - Kaggle/DACON/Conference
-**Participated in Kaggle or DACON competition or Conference as a team.**   
-*Kaggle and DACON competitions is limited to the ongoing ones.*
+## Assignment - Competition/Conference
+**Participated in Kaggle, DACON competition or Conference as a team.**   
+*(Kaggle and DACON competitions is limited to the ongoing ones.)*
 
 
 **You have to make one midterm presentation and one final presentation.**
+
 | Date | Presentation |
 |:----:|:------------------------:|
 | 2023.03.28 | Midterm Presentation-1 | 
